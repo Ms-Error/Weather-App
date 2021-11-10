@@ -87,3 +87,12 @@ img{
     font-weight: 600;
     color:rgb(140, 132, 148); ;
 }
+.ls{
+    text-align: center;
+    
+}
+.ge{
+    text-decoration: none;
+    color: rgb(98, 32, 221);
+    font-weight: 500;
+}
