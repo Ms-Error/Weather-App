@@ -1,0 +1,89 @@
+body{
+    background: radial-gradient(circle at 10% 20%, rgb(186, 190, 245) 0%, rgb(192, 192, 245) 33.1%, rgb(218, 203, 246) 90%);
+    width:100%;
+    height:100vh;
+    background-size: cover;
+}
+.body{
+    display: block;
+    margin:100px auto 0px auto;
+    background-color: #fff;
+    border-radius: 5px;
+}
+.head{
+    padding-top: 15px;
+    display: block;
+ color:rgb(122, 63, 177);
+ text-align: center;
+ font-size: 40px;
+}
+.s{
+    background-color: rgb(122, 63, 177);
+    color: #fff;
+    border: 0;
+    width:100px;
+    border-radius: 5px;
+    margin-right: 100px;
+}
+.s:hover{
+   opacity: 0.8;
+}
+.form-control{
+    margin-left: 100px;
+}
+.city{
+    text-align: center;
+     color:rgb(154, 105, 201);
+}
+.time{
+    text-align: center;
+    color: rgb(114, 109, 109);
+    font-size: 20px;
+}
+.temp{
+    text-align: center;
+     color:rgba(44, 39, 46, 0.822);
+     font-size: 80px;
+}
+.sw{
+    text-align: center;
+    color:rgb(152, 92, 207);
+    font-size: 22px;
+}
+.hes,.hek{
+    text-align: center;
+    font-size: 12px;
+   
+}
+img{
+    display: block;
+    margin:0 auto;
+}
+.week{
+
+    text-align: center;
+}
+#small-icon{
+    display: block;
+    
+}
+.box{
+    display: block;
+    background-color:rgb(231, 223, 247);
+   border-radius: 5px;
+}
+
+.units{
+    font-weight: 300;
+  position: relative;
+  font-size: 18px;
+  top: -45px;
+  left: -15px;
+  text-decoration: none;
+  font-weight: 600;
+}
+#cels{
+    text-decoration: none;
+    font-weight: 600;
+    color:rgb(140, 132, 148); ;
+}
